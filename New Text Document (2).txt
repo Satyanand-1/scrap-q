@@ -1,0 +1,25 @@
+git clone link
+
+
+git status
+
+
+git add  -A
+
+
+git commit  -m "comment"
+
+
+git push origin  (fully update)
+
+
+random changes somewhere
+
+git pull link
+
+git push origin
+
+
+
+
+
